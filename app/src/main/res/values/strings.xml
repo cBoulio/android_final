@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">bby</string>
+    <string name="continueButton">Continue</string>
+    <string name="checkBoxTOS">New CheckBox</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="month_array">
+        <item>January</item>
+        <item>Feburary</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string-array name="ethnicity_array">
+        <item>Caucasian</item>
+        <item>Black</item>
+        <item>Hispanic</item>
+        <item>Asian</item>
+        <item>Indian</item>
+        <item>Middle Eastern</item>
+        <item>Native American</item>
+        <item>Mixed Race</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="location_array">
+        <item>United States</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+        <item>Portugal</item>
+    </string-array>
+
+
+
+</resources>
